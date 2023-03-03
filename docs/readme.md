@@ -1,1 +1,2 @@
-Egitime devamke
+# Git Egitim
+GitHub egitimi devam
